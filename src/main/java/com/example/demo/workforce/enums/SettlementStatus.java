@@ -1,4 +1,6 @@
-package com.example.demo.workforce.entity;
+package com.example.demo.workforce.enums;
 
 public enum SettlementStatus {
+    PENDING,
+    SETTLED
 }
